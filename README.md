@@ -70,4 +70,4 @@ span {
 
 ## Acknowledgments
 
-My hat tip goes to the awesome frontend mentor team. Thank you for this amazing challenege.
+My hat tip goes to the awesome frontend mentor team. Thank you for this amazing challenge.
