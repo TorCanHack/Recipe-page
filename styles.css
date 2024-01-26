@@ -1,0 +1,116 @@
+
+
+main {
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 15px;
+    overflow: hidden;
+}
+img {
+    position: relative;
+    left: -15px;
+    width: 280px;
+}
+h1 {
+    font-family: "Young Serif";
+    font-size: 1.8rem;
+    color: hsl(24, 5%, 18%);
+}
+h3 {
+    font-size: 1rem;
+    color: hsl(332, 51%, 32%);
+}
+.prep-time {
+    background-color: hsl(330, 100%, 98%);
+    width: 15.5rem;
+    height: 8rem;
+    border-radius: 10px 10px;
+}
+p {
+    font-family: "Outfit";
+    font-size: 0.8rem;
+    color: hsl(30, 10%, 34%);
+}
+
+ul, ol {
+    position: relative;
+    left: -1.5rem;
+    font-family: "Outfit";
+    font-size: 0.8rem;
+    
+}
+
+.instructions, .ingredients {
+    border-bottom: 0.1px solid hsl(30, 18%, 87%);
+    
+}
+
+h2 {
+    font-family: "Young Serif";
+    font-size: 1.4rem;
+    color: hsl(14, 45%, 36%);
+}
+
+li::marker {
+    color: hsl(14, 45%, 36%);
+    
+    
+}
+
+li {
+   color: hsl(30, 10%, 34%); 
+   margin: 10px 0;
+}
+
+.bold{
+    font-weight: 700;
+}
+
+table {
+    font-family: "Outfit";
+    font-size: 0.8rem;
+    text-indent: 2rem;
+    width: 18rem;
+    color: hsl(30, 10%, 34%);
+}
+
+td {
+    padding: 0.4rem;
+    border-bottom: 0.1px solid hsl(30, 18%, 87%);
+}
+
+.space {
+    position: relative;
+    left: 1rem;
+}
+.colour {
+    color:hsl(14, 45%, 36%);
+}
+
+@media only screen and (min-width: 600px) {
+
+    body {
+        background-color: hsl(30, 54%, 90%);
+
+    }
+
+    main {
+        width: 500px;
+        background-color: white;
+        padding: 50px;
+    }
+    
+    img {
+        width: 495px;
+        border-radius: 10px 10px;
+    }
+    
+    .prep-time {
+        width: 495px;
+    }
+
+    table {
+        width: 500px;
+    }
+}
