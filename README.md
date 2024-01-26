@@ -19,12 +19,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/TorCanHack/Recipe-page/blob/main/Screenshot%202024-01-26%20at%2015-15-44%20Frontend%20Mentor%20Recipe%20page.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/TorCanHack/Recipe-page)
+- Live Site URL: (https://torcanhack.github.io/Recipe-page/)
 
 ## My process
 
