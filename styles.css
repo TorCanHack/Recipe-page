@@ -98,7 +98,10 @@ td {
     main {
         width: 500px;
         background-color: white;
+        margin-top: 120px;
         padding: 50px;
+        border-radius: 15px 15px;
+        
     }
     
     img {
